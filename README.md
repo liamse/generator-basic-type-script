@@ -25,7 +25,7 @@ yo basic-type-script
 
 ## License
 
-MIT © [Esmaeil Samadi](liamse.github.io)
+MIT © [Liamse](liamse.github.io)
 
 [npm-image]: https://badge.fury.io/js/generator-basic-type-script.svg
 [npm-url]: https://npmjs.org/package/generator-basic-type-script
